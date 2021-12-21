@@ -5,5 +5,5 @@ Autorski, kompletny system CMS, oparty o Smarty, obs³uga szablonów i wtyczek, sz
 2) Wgranie zrzutu bazy danych z pliku SQL do bazy MySQL
 3) Podanie danych dostêpowych do bazy danych w pliku config.php
 4) Frontend dostêpny pod adresem domena.com/cms (œcie¿ka zale¿na od serwera), panel administracyjny domena.com/cms/admin (domyœlne dane logowania to admin/admin)
-## Demo fontendu
-www.lukaszjarosinski/demo/cms
+## Demo frontendu
+www.lukaszjarosinski.pl/demo/cms
