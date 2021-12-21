@@ -1,0 +1,53 @@
+body {background:url('images/bg-top.png') repeat-x #ffffff;font-family:'Trebuchet MS',Trebuchet,sans-serif;font-size:9pt;color:#52536f;margin:0;text-align:center}
+
+a {color:#52536f}
+
+a:hover {color:#8486a4}
+
+div#kontener {width:100%;margin:0 auto;min-height:316px;background:url('images/header.jpg') top center no-repeat;text-align:center;padding-top:107px}
+
+div#kontener div.inside {width:928px;margin:0 auto;background:url('images/white-top.png') no-repeat;min-height:500px;overflow:hidden;}
+
+div#kontener div.ad-top {width:850px;text-align:center;height:150px;margin:30px auto 0 auto;background:url('images/shadow.png') no-repeat bottom center;}
+
+div#kontener div.left {float:left;width:190px;margin:0px 10px 10px 38px}
+
+div#kontener div.left div.menu-top {background:url('images/menu-top.png') no-repeat;height:23px}
+
+div#kontener div.left div.menu-bottom {background:url('images/menu-bottom.png') no-repeat;height:13px}
+
+div#kontener div.left div.menu-content {background:url('images/menu-bg.png') repeat-y;min-height:100px}
+
+div#kontener div.left div.menu-content ul {margin:0 10px;padding:20px 0 0 10px;list-style:none;text-align:left;font-size:10pt}
+
+div#kontener div.left div.menu-content ul li {padding-left:20px;background:url('images/menu-dot.png') no-repeat left center;line-height:18pt}
+
+div#kontener div.left div.menu-content ul li a {color:#ffffff;text-decoration:none}
+
+div#kontener div.left div.menu-content ul li a:hover {text-decoration:underline}
+
+div#kontener div.left div.ad-left {text-align:center;min-height:100px;width:170px;margin:10px auto 0 auto}
+
+div#kontener div.content {float:right;width:650px;margin:0 30px 0 0;}
+
+div#kontener div.content div.tresc {position:relative;width:648px;min-height:100px}
+
+div#kontener div.content div.tresc div.tresc-top {height:17px;background:url('images/content-top.png') no-repeat top left}
+
+div#kontener div.content div.tresc div.tresc-bottom {height:17px;background:url('images/content-bottom.png') no-repeat top left}
+
+div#kontener div.content div.tresc div.tresc-middle {background:url('images/content-bg.png') repeat-y;text-align:justify;padding:0 20px}
+
+div#kontener div.content div.tresc div.tresc-middle img.pajeczyna {position:absolute;top:0;right:0}
+
+div#kontener div.content h2 {text-transform:uppercase;font-size:16pt;font-weight:normal;margin:0;padding:0 0 0 25px;background:url('images/content-icon.png') no-repeat left center}
+
+div#kontener div.content div.hr {margin:0 0 0 25px;height:4px;background:url('images/hr-dot.png') repeat-x;}
+
+div#footer {background:url('images/bg-bottom.png') repeat-x top left;width:100%;height:135px;text-align:center}
+
+div#footer div.inside {width:828px;padding:40px 50px 0 50px;background:url('images/footer-bg.png') no-repeat center 15px;margin:0 auto;height:95px;text-align:justify;clear:both}
+
+div#footer p.left {float:left}
+
+div#footer p.right {float:right}
